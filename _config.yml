@@ -1,11 +1,11 @@
 # Site settings
-title: Yichen Blog
-SEOTitle: 逸尘的博客 | Yichen Blog
+title: Tianying Blog
+SEOTitle: 天鹰的博客的博客 | Tianying Blog
 header-img: img/post-bg-desk.jpg
-email: 54tianbiao@gmail.com
+email: 2827939745@qq.com
 description: "上善若水"
-keyword: "BY, BY 逸尘, 逸尘的博客, 是tianbiaoyang, 杨逸尘, iOS, Apple, iPhone"
-url: "http://tianbiao-yang.github.io"          # your host, for absolute URL
+keyword: "BY, BY 天鹰, 天鹰的博客, 是tianyingyang, 阳天鹰, iOS, Apple, iPhone"
+url: "http://tianying-yang.github.io"          # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Tianbiao-Yang
-zhihu_username:     Tianbiao-Yang
-github_username:    Tianbiao-Yang
-twitter_username:   Tianbiao-Yang
+weibo_username:     Tianying-Yang
+zhihu_username:     Tianying-Yang
+github_username:    Tianying-Yang
+twitter_username:   Tianying-Yang
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -104,8 +104,8 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Lifan Chen",
-        href: "https://lifanchen-simm.github.io"
+        title: "Tianbiao Yang",
+        href: "https://tianbiao-yang.github.io"
     },{
         title: "Apple",
         href: "https://apple.com"
